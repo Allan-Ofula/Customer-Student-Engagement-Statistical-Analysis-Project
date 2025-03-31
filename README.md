@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Customer-Student-Engagement-Statistical-Analysis-Project
- Customer Engagement Statistical Analysis Project
-=======
 # Customer-Student Engagement Statistical Analysis Project
 
 ## Project Overview
@@ -160,4 +156,4 @@ Thank you!
 ### 📌 Let’s Connect!
 - 🔗 LinkedIn: https://www.linkedin.com/in/allan-ofula-b2804911b/
 - 🐙 GitHub: https://allan-ofula.github.io/, https://github.com/Allan-Ofula
->>>>>>> 86e627d ( Customer Engagement Statistical Analysis Project)
+
